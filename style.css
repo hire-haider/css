@@ -22,3 +22,9 @@
   width:auto;
   hight:auto; 
 }
+.menu {
+  width:75%;
+  background-color: grey;
+  text-color: white;
+  dispaly:flex;
+}
