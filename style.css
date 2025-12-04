@@ -32,4 +32,11 @@
   width:100%;
   position: relative;
 } 
+.menu .menubar ul{
+  dispaly:frex;
+  text-decoration: none;
+  list-style: nonr;
+  justify-content:space-between;
+  position: relative;
+}
 
