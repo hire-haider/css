@@ -28,3 +28,8 @@
   text-color: white;
   dispaly:flex;
 }
+.menu .menubar {
+  width:100%;
+  position: relative;
+}
+
