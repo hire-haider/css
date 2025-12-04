@@ -39,4 +39,10 @@
   justify-content:space-between;
   position: relative;
 }
-
+.menu .menubar ul li a{
+  dispaly:frex;
+  text-decoration: none;
+  color: black;
+  position: absolute;
+  fornt-size: 1.5vw;
+}
